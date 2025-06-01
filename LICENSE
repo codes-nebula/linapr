@@ -20,11 +20,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-User Obligations:
-1. All copies or substantial uses must include the above copyright notice and license statement.
-2. Do not use the author's name to endorse modified versions.
-
-Special Notes:
-- This tool only automates QEMU command parameter generation.
-- No affiliation with QEMU official or other third-party projects.
-- Not liable for any direct/indirect consequences from using this tool.
+This tool was developed by codes-nebula@github.com.
+linapr is licensed under the MIT open-source license. It is free for use, non-commercial, 
+and may be modified or distributed by anyone provided the original creator's name is retained.
+linapr functions solely as a configuration/launch script for third-party applications (commands) 
+and is not affiliated with other projects. The author assumes no legal liability for consequences arising from its use.
